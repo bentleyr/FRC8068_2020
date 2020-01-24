@@ -23,4 +23,6 @@ public class Shooter extends SubsystemBase {
   }
 
   //blahbity blahbidy
+
+  //i think rob hates me
 }
